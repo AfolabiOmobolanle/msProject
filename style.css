@@ -33,12 +33,12 @@ body{
     border-bottom: 1px solid black;
     outline: none;
 }
-.noAcc{
+/* .noAcc{
     margin-top: 1rem;
     font-size: 0.8rem;
     color: #383838;
     font-weight: 450;
-}
+} */
 .style{
     color: #0067b8;
 }
